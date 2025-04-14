@@ -59,7 +59,7 @@ SortingVisualizer/
 
 Clone this repository:
 
-git clone https://github.com/NAhmad231/SortingVisualizer.git
+git clone https://github.com/SuhelShaikh12/Sorting-Visualizer
 
 Navigate to the project directory:
 
