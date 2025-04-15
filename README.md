@@ -100,11 +100,11 @@ If you have any ideas or suggestions to improve this project, feel free to reach
 
 📧 Contact
 
-Author: Nisha Ahmad
+Author: Mohd Suhel Imshad
 
-Email: nishasaifi2004@gmail.com
+Email: suhelimshad@gmail.com
 
-LinkedIn: www.linkedin.com/in/nisha-ahmad
+LinkedIn: www.linkedin.com/in/suhelimshad
 
 📜 License
 
