@@ -1,117 +1,129 @@
-# Sorting-Visualizer
-## 🌐 Live Demo   [Check Out](https://SuhelShaikh12.github.io/Sorting-Visualizer/) 
+# 🎨 Sorting Visualizer
 
+🌐 **Live Demo** → [Check it out](https://SuhelShaikh12.github.io/Sorting-Visualizer/)
 
-Sorting algorithms are the heart of computer science and data manipulation. Sorting Visualizer brings these algorithms to life through a visually interactive tool, helping users understand and analyze the behavior of some of the most popular sorting techniques.
+Sorting algorithms are core to computer science and data structures. This project visually demonstrates how various sorting algorithms work in an interactive and engaging way — perfect for both beginners and enthusiasts!
 
-🚀 Features
+---
 
-✨ Visualized Algorithms
+## 🚀 Features
 
-This tool supports the visualization of the following sorting algorithms:
+- 🎞️ Real-time visualization of popular sorting algorithms  
+- 🧠 Intuitive understanding of sorting logic through animations  
+- 🛠️ Simple and clean UI for focused learning  
+- 🔄 Adjustable array size and speed (if implemented)  
 
-Quick Sort
+---
 
-A highly efficient, divide-and-conquer algorithm with average-case time complexity of O(n log n).
+## ✨ Supported Algorithms
 
-Learn how partitions are created and observe recursive sorting in action.
+### 🔹 Quick Sort
+- Efficient divide-and-conquer approach  
+- Average-case time complexity: **O(n log n)**  
+- See how pivot-based partitioning works in real time  
 
-Merge Sort
+### 🔹 Merge Sort
+- Stable and recursive sorting technique  
+- Time complexity: **O(n log n)**  
+- Watch arrays split and merge step-by-step  
 
-A stable and efficient algorithm with guaranteed time complexity of O(n log n).
+### 🔹 Bubble Sort
+- Simple and educational for beginners  
+- Time complexity: **O(n²)**  
+- Observe adjacent elements "bubble" into place  
 
-Watch how the array is divided, conquered, and merged step-by-step.
+### 🔹 Selection Sort
+- Easy to understand and implement  
+- Time complexity: **O(n²)**  
+- Repeatedly selects the smallest element and moves it to the correct position  
 
-Bubble Sort
+---
 
-A simple yet educational algorithm with time complexity of O(n^2) in the worst case.
+## 🖼️ Screenshots
 
-See how adjacent elements "bubble" into place through multiple passes.
+> _Add GIFs or screenshots of your visualizer in action here to give users a preview of the experience._
 
-Selection Sort
+---
 
-A straightforward algorithm with time complexity of O(n^2).
-
-Observe how the smallest element is repeatedly selected and moved to its correct position.
-
-🖼️ Screenshots
-
-Include GIFs or images of your visualizer in action to give users a glimpse of the experience.
-
-📂 Project Structure
+## 📁 Project Structure
 
 SortingVisualizer/
 ├── src/
-│   ├── algorithms/        # Sorting algorithms implemented here
-│   ├── components/        # UI components
-│   ├── styles/            # CSS styles for the project
-├── public/                # Static files
-├── README.md              # Project documentation
-├── package.json           # Dependencies and scripts
+│ ├── algorithms/ # Sorting algorithms (JS logic)
+│ ├── components/ # UI elements and logic
+│ ├── styles/ # CSS styling
+├── public/ # Static assets
+├── index.html # Main HTML file
+├── README.md # Project overview
+├── package.json # Dependencies and scripts
 
-💻 Technologies Used
 
--HTML
--CSS
--JavaScript
 
-⚙️ How to Run
+## 💻 Built With
 
-Clone this repository:
+- **HTML**
+- **CSS**
+- **JavaScript**
 
+---
+
+## ⚙️ How to Run Locally
+
+### 1. Clone the repository:
+```bash
 git clone https://github.com/SuhelShaikh12/Sorting-Visualizer
 
-Navigate to the project directory:
 
-cd SortingVisualizer
+2. Navigate to the project directory:
+cd Sorting-Visualizer
 
+3. Run the application:
+Open the index.html file in your browser.
 
-🎯 Goals of the Project
+No additional setup or build tools required.
 
-Educational Value: Help beginners and professionals alike understand how sorting algorithms work.
+🎯 Project Objectives
+✅ Help learners understand how sorting algorithms work
 
-Interactive Learning: Provide an engaging way to experiment with different algorithms.
+✅ Provide a fun and interactive way to learn sorting concepts
 
-Code Quality: Emphasize readability, modularity, and reusability in the codebase.
+✅ Emphasize clean, modular, and reusable code
 
 🤝 Contributions
+All contributions are welcome! Here’s how to get started:
 
-Contributions are welcome! If you'd like to enhance this project, feel free to:
+Fork the repository
 
-Fork the repository.
+Create a new branch
 
-Create a new branch for your feature:
 
 git checkout -b feature-name
+Commit your changes
 
-Commit your changes:
 
-git commit -m "Add your feature description"
+git commit -m "Add feature or fix bug"
+Push the changes
 
-Push your branch:
 
 git push origin feature-name
+Create a Pull Request
 
-Create a pull request.
 
-🌟 Feedback and Suggestions
-
-If you have any ideas or suggestions to improve this project, feel free to reach out or open an issue in the repository. Your feedback is invaluable!
+💡 Feedback & Suggestions
+Have ideas to enhance the project?
+Feel free to open an issue or drop a message — your input is appreciated!
 
 📧 Contact
-
 Author: Mohd Suhel Imshad
-
-Email: suhelimshad@gmail.com
-
-LinkedIn: www.linkedin.com/in/suhelimshad
+📩 Email: suhelimshad@gmail.com
+🔗 LinkedIn: linkedin.com/in/suhelimshad
 
 📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
+Feel free to use, modify, and share for personal or educational purposes.
 
 🙌 Acknowledgments
+Special thanks to online tutorials, open-source contributors, and developer communities.
 
-Thanks to all who inspired this project.
+Grateful to all who inspired or contributed to this project.
 
-Special thanks to online resources, mentors, and the developer community for their support.
